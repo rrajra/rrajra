@@ -5,5 +5,6 @@ I'm a 20 year old software dev living in California. I am currently going to sch
  * [Jackbox Launcher](https://github.com/rrajra/JackboxLauncher)
  * [Budgeteer](https://github.com/rrajra/Budgeteer)
  * [Better Music](https://github.com/rrajra/MusicPlayer)
+ * [UVSafe](https://github.com/rrajra/UVSafe)
  
  #### 🌐 Feel free to check out my [website](https://abrahams.dev).
