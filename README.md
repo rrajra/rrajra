@@ -1,5 +1,5 @@
 ### Hello, I'm Matt 👋
-I'm a 20 year old software dev currently in school.
+I'm a 20 year old software dev living in California. I am currently going to school at MSJC in Menifee, CA.
 
 #### 💻 Here's a list of some of my projects
  * [Jackbox Launcher](https://github.com/rrajra/JackboxLauncher)
