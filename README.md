@@ -1,5 +1,5 @@
 ### Hello, I'm Matt 👋
-I'm a 23 year old software engineer living in California. I am currently going to school and working full time.
+I'm a 24 year old software engineer living in California. I am currently going to school and working full time.
 
 #### 💻 Here's a list of some of my projects
  * [EZDM.pro](https://ezdm.pro)
